@@ -1,4 +1,4 @@
-<img align="right" height="450em" src="https://github.com/alissondevsouza/alissondevsouza/blob/main/Picture/Card.png"/>
+<img align="right" height="400em" src="https://github.com/alissondevsouza/alissondevsouza/blob/main/Picture/Card.png"/>
 <h2 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alisson Souza</h2>
 - ✔️ Front-end Developer
 
