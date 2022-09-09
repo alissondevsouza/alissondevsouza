@@ -29,8 +29,8 @@
 <h3>GitHub Analytics ⚙️</h3>
 
 <p align="left">
-<img width="300em" src="https://github-readme-stats.vercel.app/api?username=alissondevsouza&show_icons=true&theme=vision-friendly-radical" alt="alissondevsouza most stats"/> 
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissondevsouza&layout=compact&theme=vision-friendly-radical" alt="alissondesouza most languages"/>
+<img width="280em" src="https://github-readme-stats.vercel.app/api?username=alissondevsouza&show_icons=true&theme=vision-friendly-radical" alt="alissondevsouza most stats"/> 
+<img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissondevsouza&layout=compact&theme=vision-friendly-radical" alt="alissondesouza most languages"/>
 </p>
 
 ![Snake animation](https://github.com/alissondevsouza/alissondevsouza/blob/output/github-contribution-grid-snake.svg)
