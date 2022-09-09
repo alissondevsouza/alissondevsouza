@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://github.com/alissondevsouza/alissondevsouza/blob/main/Picture/Card.png"/>
+<img align="right" height="450em" src="https://github.com/alissondevsouza/alissondevsouza/blob/main/Picture/Card.png"/>
 <h2 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alisson Souza</h2>
 - ✔️ Front-end Developer
 
@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitHub](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 <h3>Contact 📧<h3>
 
