@@ -30,7 +30,6 @@
 <img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissondevsouza&layout=compact&theme=vision-friendly-radical" alt="alissondesouza most languages"/>
 </p>
 
-![Snake animation](https://github.com/alissondevsouza/alissondevsouza/blob/output/github-contribution-grid-snake.svg)
 
 
 
