@@ -1,3 +1,26 @@
+
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/CmhmpQ6/avatar-sem-bg.png">
+
+</br>
+</br>
+
+<div dsplay="inline-block">
+  <h1 align="left">Alisson Souza</h1>
+  
+  </br>
+  
+  <p>Desenvolvedor Full Stack</p>
+</div>
+
+
+
+
+
+
+
+
+
+<!--
 <h2 align="center">Hi :call_me_hand:, Welcome to my profile</h2>
 <h2 align="center">I am Alisson, Full Stack Developer :computer: </h2>
 
@@ -57,5 +80,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissondevsouza&layout=compact&theme=tokyonight" />
 </p>
+
+-->
 
 
