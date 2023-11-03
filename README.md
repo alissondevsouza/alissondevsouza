@@ -11,7 +11,7 @@
 <h2>Hello my friend :call_me_hand:, Welcome to my profile</h2>
 
 <p>
-  I am Full-Stack Developer, graduated in Systems Analysis and Development and I am part of the Software Development team at <a href="https://www.crearesistemas.com.br/pt/">Creare Sistemas</a>, more specifically the squad of <a href="https://goawake.com/">Goawake</a> Software. I live in São Leopoldo, metropolitan region of Porto Alegre/RS.
+  I am Full-Stack Developer, graduated in Systems Analysis and Development and I am part of the Software Development team at <a style="text-decoration:none" href="https://www.crearesistemas.com.br/pt/">Creare Sistemas</a>, more specifically the squad of <a style="text-decoration:none" href="https://goawake.com/">Goawake</a> Software. I live in São Leopoldo, metropolitan region of Porto Alegre/RS.
 </p>
 
 </br>
@@ -68,7 +68,7 @@
 </br>
 </br>
 
-<h2>GitHub Analytics</h2>
+<h2>⚙️ GitHub Analytics</h2>
 
 <p align="center">
   <a href="https://github.com/alissondevsouza">
