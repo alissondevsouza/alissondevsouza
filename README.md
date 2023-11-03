@@ -21,6 +21,7 @@
 </div>
 
 </br>
+</br>
 
 <h2>🖥️ Technologies and Tools: </h2>
 
@@ -44,7 +45,8 @@
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title = "POSTGRESQL"/></code>
 </div>
 
-
+</br>
+</br>
 
 <h2> 📧 Contact: </h2>
 
@@ -64,6 +66,9 @@
 </div>
 
 </br>
+</br>
+
+<h2>GitHub Analytics</h2>
 
 <p align="center">
   <a href="https://github.com/alissondevsouza">
