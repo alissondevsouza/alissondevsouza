@@ -3,7 +3,13 @@
 </br>
 </br>
 
-<h1 align="center">Full Stack Developer 👨‍💻 </h1>
+<div style="text-align: center;">
+    <span style="font-size: 30px; font-weight: bold;">
+      Full Stack Developer 👨‍💻
+    </span>
+</div>
+
+</br>
 
 <div align="center">
   <a href="https://api.whatsapp.com/send?phone=5551982760225&text=Ol%C3%A1,%20cheguei%20aqui%20atrav%C3%A9s%20de%20seu%20GitHub.">
@@ -24,8 +30,12 @@
 </br>
 
 <div align="center">
-  <h2>Olá, Seja Bem-Vindo Ao Meu Perfil !! 👋</h2>
+  <span style="font-size: 18px; font-weight: bold;">
+    Olá, Seja Bem-Vindo Ao Meu Perfil !! 👋
+  </span>
 </dv>
+
+</br>
 
 <div align="left">
   <p>
