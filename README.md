@@ -29,7 +29,7 @@
 
 <div align="left">
   <p>
-    Meu Nome é <b>Alisson</b> sou <b>Desenvolvedor de Software Full Stack</b>, atualmente faço parte do time de Software da <a style="text-decoration:none" href="https://www.crearesistemas.com.br/pt/">Creare Sistemas</a>. Minhas principais tecnologias usadas hoje são node.js com <b>typescript</b> e <b>Java</b> com Spring Boot para o Backend. Para o Frontend o que mais tenha usado é React com <b>tsx</b>. 
+    Meu nome é <b>Alisson</b>, sou <b>Desenvolvedor de Software Full Stack</b> e, atualmente, faço parte do time de Software da <a style="text-decoration:none" href="https://www.crearesistemas.com.br/pt/">Creare Sistemas</a>. Minhas principais tecnologias usadas hoje são Node.js com <b>TypeScript</b> e <b>Java</b> com Spring Boot para o backend. No frontend, o que mais tenho utilizado é React com <b>TSX</b>. 
   </p>
 </div>
 
