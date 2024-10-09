@@ -3,52 +3,7 @@
 </br>
 </br>
 
-<h1 align="left">ALISSON SOUZA - Full Stack Developer</h1>
-
-</br>
-</br>
-
-<h2>Hello my friend :call_me_hand:, Welcome to my profile</h2>
-
-<p>
-  I am Full-Stack Developer, graduated in Systems Analysis and Development and I am part of the Software Development team at <a style="text-decoration:none" href="https://www.crearesistemas.com.br/pt/">Creare Sistemas</a>, more specifically the squad of <a style="text-decoration:none" href="https://goawake.com/">Goawake</a> Software. I live in São Leopoldo, metropolitan region of Porto Alegre/RS.
-</p>
-
-</br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350">
-</div>
-
-</br>
-</br>
-
-<h2>🖥️ Technologies and Tools: </h2>
-
-<div align="center">
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "ANGULAR"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACTJS"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODEJS"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "SPRING"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "POSTGRESQL"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title = "MONGODB"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title = "REDIS"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title = "KAFKA"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title = "DOCKER"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title = "JIRA"/></code>
-</div>
-
-</br>
-</br>
-
-<h2> 📧 Contact: </h2>
+<h1 align="center">Full Stack Developer 👨‍💻 </h1>
 
 <div align="center">
   <a href="https://api.whatsapp.com/send?phone=5551982760225&text=Ol%C3%A1,%20cheguei%20aqui%20atrav%C3%A9s%20de%20seu%20GitHub.">
@@ -68,13 +23,41 @@
 </br>
 </br>
 
-<h2>⚙️ GitHub Analytics</h2>
+<div align="center">
+  <h2>Olá, Seja Bem-Vindo Ao Meu Perfil !! 👋</h2>
+</dv>
+
+<div align="left">
+  <p>
+    Meu Nome é <b>Alisson</b> sou <b>Desenvolvedor de Software Full Stack</b>, atualmente faço parte do time de Software da <a style="text-decoration:none" href="https://www.crearesistemas.com.br/pt/">Creare Sistemas</a>. Minhas principais tecnologias usadas hoje são node.js com <b>typescript</b> e <b>Java</b> com Spring Boot para o Backend. Para o Frontend o que mais tenha usado é React com <b>tsx</b>. 
+  </p>
+</div>
+
+</br>
+</br>
+
+<div align="center">
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODEJS"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACTJS"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "SPRING"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "POSTGRESQL"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title = "MONGODB"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title = "REDIS"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title = "KAFKA"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title = "DOCKER"/></code>
+</div>
+
+<!--
+</br>
+</br>
 
 <p align="center">
   <a href="https://github.com/alissondevsouza">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alissondevsouza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alissondevsouza&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+-->
 
 
