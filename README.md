@@ -3,11 +3,7 @@
 </br>
 </br>
 
-<div style="text-align: center;">
-    <span style="font-size: 30px; font-weight: bold;">
-      Full Stack Developer 👨‍💻
-    </span>
-</div>
+<div style="font-size: 36px; font-weight: bold; text-align: center;">Full Stack Developer 👨‍💻</div>
 
 </br>
 
